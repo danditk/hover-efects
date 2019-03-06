@@ -6,7 +6,10 @@ This time I will deal with so-called hover effects, i.e. effects that appear whe
 
 .#CSS:
 
-	
+	- transform: 							type of change - scale(), scaleX(), scaleY(), scale3d(), scaleZ(), rotate/X/Y/Z/3d(), translate/X/Y/Z/3d, skrew/X/Y/3d(), matrix3d(), perspective(); i can connect/ sum more than one property
+	- transition-duration:					time of chenges
+	- transition: 							transform efect/ animation - properties (can set all!), time, transition type - ease, linear, ease-in, ease-out, ease-in-out, step-start, step-end, steps(), cubic-bezier()
+	- prefixes								http://shouldiprefix.com/ remember to check!
 	
 	
 .# Sources:
