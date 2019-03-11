@@ -96,6 +96,22 @@ h1
 	width: 450px;
 }
 
+.overlay{
+	position: relative;
+	width: 450px;
+	height: 278px;
+}
+
+.overlay .link{
+	position: absolute;
+	display: block;
+	width: 450px;
+	height: 65px;
+	background-color: #111;
+	left: 0px;
+	top: 0px;
+}
+
 .photo4
 {
 	width: 450px;

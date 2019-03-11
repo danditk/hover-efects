@@ -10,6 +10,7 @@ This time I will deal with so-called hover effects, i.e. effects that appear whe
 	- transition-duration:					time of chenges
 	- transition: 							transform efect/ animation - properties (can set all!), time, transition type - ease, linear, ease-in, ease-out, ease-in-out, step-start, step-end, steps(), cubic-bezier()
 	- prefixes								http://shouldiprefix.com/ remember to check!
+	- position: relative;					to set position using left/right/bottom/top
 	
 	
 .#HTML:
