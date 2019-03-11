@@ -12,6 +12,11 @@ This time I will deal with so-called hover effects, i.e. effects that appear whe
 	- prefixes								http://shouldiprefix.com/ remember to check!
 	
 	
+.#HTML:
+
+	- <sup>									m2 to up text
+
+	
 .# Sources:
 
 Kurs CSS odc. 5: Efekty hover, transition, transform by Pasja informatyki https://www.youtube.com/watch?v=BjlC18jZe1o&list=PLOYHgt8dIdow6b2Qm3aTJbKT2BPo5iybv&index=5

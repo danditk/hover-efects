@@ -72,6 +72,8 @@ h1
 
 .photo1:hover
 {
+	-webkit-transform: scale(0.9);
+	-ms-transform: scale(0.9);
 	transform: scale(0.9);
 	opacity: .1;
 }
@@ -84,6 +86,8 @@ h1
 
 .photo2:hover
 {
+	-webkit-transform: scale(.95) rotate(5deg);
+	-ms-transform: scale(.95) rotate(5deg);
 	transform: scale(.95) rotate(5deg);
 }
 
