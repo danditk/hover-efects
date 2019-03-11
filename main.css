@@ -109,12 +109,40 @@ h1
 	height: 65px;
 	background-color: #111;
 	left: 0px;
-	top: 0px;
+	bottom: 0px;
+	opacity: 0;
+	transition-duration: .5s;
+}
+
+.overlay:hover .link{
+	opacity: .9;
 }
 
 .photo4
 {
 	width: 450px;
+}
+
+.overlayt{
+	position: relative;
+	width: 450px;
+	height: 278px;
+}
+
+.overlayt .link{
+	position: absolute;
+	display: block;
+	width: 100%;
+	height: 100%;
+	background-color: #111;
+	left: 0;
+	top: 0;
+	opacity: 0;
+	transition-duration: .5s;
+}
+
+.overlayt:hover .link{
+	opacity: .9;
 }
 
 .photo5
